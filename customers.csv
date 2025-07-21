@@ -1,0 +1,51 @@
+customer_id,customer_name,city,country
+1,Ana Petrović,Beograd,Srbija
+2,Marko Jovanović,Novi Sad,Srbija
+3,Jelena Ilić,Kragujevac,Srbija
+4,Petar Marković,Niš,Srbija
+5,Milan Stojanović,Subotica,Srbija
+6,Milica Popović,Sombor,Srbija
+7,Dragana Lukić,Čačak,Srbija
+8,Nikola Đorđević,Zrenjanin,Srbija
+9,Ivana Kostić,Kruševac,Srbija
+10,Stefan Nikolić,Pančevo,Srbija
+11,Marija Ristić,Kraljevo,Srbija
+12,Dejan Petrović,Pirot,Srbija
+13,Katarina Simić,Vranje,Srbija
+14,Đorđe Janković,Loznica,Srbija
+15,Nemanja Vasić,Užice,Srbija
+16,Anđela Radović,Valjevo,Srbija
+17,Filip Pavlović,Bor,Srbija
+18,Jovana Matić,Zaječar,Srbija
+19,Lazar Milenković,Smederevo,Srbija
+20,Teodora Obradović,Sremska Mitrovica,Srbija
+21,Vuk Perić,Kikinda,Srbija
+22,Nataša Milovanović,Požarevac,Srbija
+23,Miloš Antić,Jagodina,Srbija
+24,Sara Kovačević,Paraćin,Srbija
+25,Bojan Stanković,Apatin,Srbija
+26,Nevena Živković,Bačka Palanka,Srbija
+27,Uroš Blagojević,Šabac,Srbija
+28,Tamara Ilić,Priboj,Srbija
+29,Damir Đukić,Negotin,Srbija
+30,Sanja Todorović,Prokuplje,Srbija
+31,Miroslav Vučić,Leskovac,Srbija
+32,Jelica Arsić,Aranđelovac,Srbija
+33,Boris Knežević,Gornji Milanovac,Srbija
+34,Miljana Vuković,Petrovac na Mlavi,Srbija
+35,Zoran Gajić,Kruševac,Srbija
+36,Milena Šarić,Bela Crkva,Srbija
+37,Radovan Nikolić,Inđija,Srbija
+38,Ivana Radulović,Pećinci,Srbija
+39,Luka Živanović,Bogatić,Srbija
+40,Nikolina Pavić,Batočina,Srbija
+41,Stefan Radosavljević,Rača,Srbija
+42,Mirjana Milić,Lazarevac,Srbija
+43,Petar Lukić,Kosjerić,Srbija
+44,Kristina Jovanović,Mladenovac,Srbija
+45,Andrija Obradović,Vrnjačka Banja,Srbija
+46,Lidija Popović,Surdulica,Srbija
+47,Milan Jevtić,Babušnica,Srbija
+48,Nina Petrović,Dimitrovgrad,Srbija
+49,Dušan Stojanović,Knjazevac,Srbija
+50,Petar Simić,Sokobanja,Srbija
